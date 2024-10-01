@@ -7,11 +7,16 @@
 - ⚡ Fun fact: ...
 -
 -
-- ### here are my projects
--  [Basic express app with CRUD Operations](https://github.com/65ani/expressApp1)
+- ### Here are my projects
+- ##Express Projects
+-  [Basic Express app with CRUD Operations](https://github.com/65ani/expressApp1)
+-  [basic Express Application with CRUD operation
+
+- ##React Projects
 -  [Basic word and letter calculation operations](https://github.com/65ani/reactProject/tree/main/word-letter-counter)
 -  [Basic password validator](https://github.com/65ani/reactProject/tree/main/passwordvalidator)
 -  [Basic lyrics finder](https://github.com/65ani/reactProject/tree/main/lyrics-finder)
+-  [Basic axios-lab]
 
 <!---
 65ani/65ani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
