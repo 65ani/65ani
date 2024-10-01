@@ -7,12 +7,12 @@
 - ⚡ Fun fact: ...
 -
 -
-- ### Here are my projects
-- ## Express Projects
+ ### Here are my projects
+ ## Express Projects
 -  [Basic Express app with CRUD Operations](https://github.com/65ani/expressApp1)
 -  
 
-- ## React Projects
+ ## React Projects
 -  [Basic word and letter calculation operations](https://github.com/65ani/reactProject/tree/main/word-letter-counter)
 -  [Basic password validator](https://github.com/65ani/reactProject/tree/main/passwordvalidator)
 -  [Basic lyrics finder](https://github.com/65ani/reactProject/tree/main/lyrics-finder)
