@@ -3,14 +3,11 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anitha.nhk26@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--
--
+
  # Here are my projects
  ## Express Projects
 -  [Basic Express app with CRUD Operations](https://github.com/65ani/expressApp1)
--  
+-  [Basic App with CRUD Operations ,status code,mongoose connection and error handling](https://github.com/65ani/mongooseproj1)
 
  ## React Projects
 -  [Basic word and letter calculation operations](https://github.com/65ani/reactProject/tree/main/word-letter-counter)
