@@ -5,10 +5,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anitha.nhk26@gmail.com
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@NahakAnitha) 
 
