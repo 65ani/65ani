@@ -1,7 +1,7 @@
-# 👋 Hi, I’m anitha nahak..
+                                             # 👋 Hi, I’m anitha nahak..
 
 - 👀 I’m interested in 
-- 🌱 I’m currently learning ### web devlopment , MERN Stack.
+- 🌱 I’m currently learning web devlopment , MERN Stack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anitha.nhk26@gmail.com
 
