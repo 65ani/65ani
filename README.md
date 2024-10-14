@@ -1,4 +1,4 @@
-                                             # 👋 Hi, I’m anitha nahak..
+ # 👋 Hi, I’m anitha nahak..
 
 - 👀 I’m interested in 
 - 🌱 I’m currently learning web devlopment , MERN Stack.
